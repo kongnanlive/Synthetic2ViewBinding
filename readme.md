@@ -115,7 +115,7 @@ fun doWriteAction(viewIdInfoAsList: List<ViewInfo>) {
 ```
 
 ### 插件安装
-- 把包下下来 https://github.com/MartinHY/Synthetic2ViewBinding/releases/tag/V1.0.1
+- 把包下下来 https://github.com/kongnanlive/Synthetic2ViewBinding/releases/tag/v1.0.2
 - idea 本地安装
 - 迁移完删除 0.0
 
